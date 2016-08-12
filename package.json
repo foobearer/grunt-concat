@@ -1,0 +1,22 @@
+{
+  "name": "grunt-concat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foobearer/grunt-concat.git"
+  },
+  "author": "Joycee Paragas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foobearer/grunt-concat/issues"
+  },
+  "homepage": "https://github.com/foobearer/grunt-concat#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
