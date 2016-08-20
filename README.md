@@ -1,4 +1,4 @@
-* grunt-contrib-concat (concatenante files)
+* grunt-contrib-concat (concatenate files)
   - npm install command
   ``` npm install grunt-contrib-concat --save-dev ```
   - Gruntfile.js
